@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hrongit/hrongit/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/hrongit/hrongit/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
