@@ -2,8 +2,12 @@
 
 ## I'm [Hritik!](https://google.com)👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
-##
+
+###
+
 <h2 align="left">About me</h2>
+
+###
 
 <p align="left">✨ Creating bugs since  2021<br>📚 I'm a tech enthusiast<br>🎯 Goals: Pro-Coder<br>🎲 Fun fact: I'm same as you</p>
 
@@ -23,7 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
-### My Skill stack 
+###  
+
+<h2 align="left">My Skill stack</h2>
+
+### 
 
 |               |           |
 |       ---     |    ---    |
@@ -31,25 +39,42 @@
 | `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![devops](https://img.shields.io/badge/-devops-034D9A?style=for-the-badge&logo=devops%2B%2B)|
 
-____________________________
+
+###
 
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=hrongit&theme=blue-green&&layout=compact">
-____________________________
-### Github Streak 
+
+###  
+
+<h2 align="left">Github Streak</h2>
+
+###   
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrongit&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
----
+###
 
 [![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=hrongit&theme=react-dark)](https://github.com/hrongit)
 
 ###
-________________________________________________
-### Watch Snake eating my contribution:
+
+  
+###  
+
+<h2 align="left">Watch Snake eating my contribution</h2>
+
+###   
+  
+  
 ![snake gif](https://github.com/hrongit/hrongit/blob/output/github-contribution-grid-snake.gif)
-____________
 
 
-### My Socials
+###  
+
+<h2 align="left">My Socials</h2>
+
+###  
+  
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hritik-raj-bngr1a/" target="_blank">
@@ -66,6 +91,8 @@ ____________
 ###
 
 <h2>Github Profile Trophy</h2>
+  
+###  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=hrongit&column=8&theme=algolia&no-frame=true"/>
 </a>
