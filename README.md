@@ -1,7 +1,6 @@
 <h1 align="left">Hey 👋 Coders</h1>
 
-### I'm [Hritik!](https://google.com)👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+## I'm [Hritik!](https://google.com)👋<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
 
 <h2 align="left">About me</h2>
