@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
-### My Skill stack :
+### My Skill stack 
 
 |               |           |
 |       ---     |    ---    |
@@ -33,6 +33,8 @@
 
 ____________________________
 
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=hrongit&theme=blue-green&&layout=compact">
+____________________________
 ### Github Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrongit&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
