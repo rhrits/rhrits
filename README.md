@@ -93,6 +93,8 @@
 
 ###
 
+<!-- github tropies -->
+
 <h2>Github Profile Trophy</h2>
   
 ###  
