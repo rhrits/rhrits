@@ -37,7 +37,7 @@
 
 ###
 
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=hrongit&theme=blue-green&&layout=compact">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrits&theme=blue-green&&layout=compact">
 
 ###  
 
@@ -45,11 +45,11 @@
 
 ###   
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrongit&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhrits&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
 
 ###
 
-[![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=hrongit&theme=react-dark)](https://github.com/hrongit)
+[![Hritik github activity graph](https://activity-graph.herokuapp.com/graph?username=rhrits&theme=react-dark)](https://github.com/rhrits)
 
 ###
 
@@ -61,7 +61,7 @@
 ###   
   
   
-![snake gif](https://github.com/hrongit/hrongit/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rhrits/rhrits/blob/output/github-contribution-grid-snake.gif)
 
 
 ###  
@@ -100,7 +100,7 @@
 ###  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=hrongit&column=8&theme=algolia&no-frame=true"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=rhrits&column=8&theme=algolia&no-frame=true"/>
 </a>
 
-<h7>@hrongit</h7>
+<h7>@rhrits</h7>
