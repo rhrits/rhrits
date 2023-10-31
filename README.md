@@ -103,4 +103,11 @@
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=rhrits&column=8&theme=algolia&no-frame=true"/>
 </a>
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=rhrits&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <h7>@rhrits</h7>
