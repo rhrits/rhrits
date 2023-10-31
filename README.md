@@ -91,18 +91,6 @@
 ###
   [![@hronholopin's Holopin board](https://holopin.me/hronholopin)](https://holopin.io/@hronholopin)
 
-###
-
-<!-- github tropies -->
-
-<h2>Github Profile Trophy</h2>
-  
-###  
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=rhrits&column=8&theme=algolia&no-frame=true"/>
-</a>
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
