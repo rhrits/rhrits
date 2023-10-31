@@ -87,6 +87,11 @@
 ###
 
 <h2>Holopin Badges</h2>
+
+###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 ###
   [![@hronholopin's Holopin board](https://holopin.me/hronholopin)](https://holopin.io/@hronholopin)
