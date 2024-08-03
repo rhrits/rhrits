@@ -2,7 +2,7 @@
 <h1 align="left">Hey 👋 Coders</h1>
 
 ## I'm [Hritik!](https://google.com)👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Devops+Engineer)](https://git.io/typing-svg)
 
 
 ## About me
