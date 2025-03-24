@@ -8,6 +8,8 @@
 ## About me
 <p align="left">✨ Creating bugs since  2021<br>📚 I'm a tech enthusiast<br>🎯 Goals: Pro-Coder<br>🎲 Fun fact: I'm same as you</p>
 
+![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
 ###
 <h2 align="left">Github Streak</h2>
 
