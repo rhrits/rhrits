@@ -1,282 +1,351 @@
 <div align="center">
 
-<img src="gitartwork.svg" width="420" alt="Hritik GitHub contributions"/>
+<img src="gitartwork.svg" width="330" alt="GitHub contribution artwork"/>
+
+
+
+
+
+### <code>Full-Stack AI Engineer</code> · <code>AI Product Builder</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Hritik+Raj;%24+building+AI-native+products;%24+shipping+production+systems;%24+full-stack+%2B+AI+%2B+cloud;%24+turning+ideas+into+things+people+use" alt="Animated terminal typing"/>
+
+<br>
+
+<sub>
+
+<span style="color:#3FB950">●</span> BUILDING
+  ·   <span style="color:#58A6FF">◈</span> AI + PRODUCT
+  ·   <span style="color:#A371F7">⌁</span> INDIA
+
+</sub>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif" width="290"/>
+
+<br><br>
+
+<sub><i>“Build useful things. Make them real.”</i></sub>
+
+<br><br>
+
+<a href="https://github.com/rhrits">
+<img src="https://img.shields.io/badge/GitHub-rhrits-161B22?style=flat-square&logo=github&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hritikraj/">
+<img src="https://img.shields.io/badge/LinkedIn-connect-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://x.com/rhrits">
+<img src="https://img.shields.io/badge/X-@rhrits-161B22?style=flat-square&logo=x&logoColor=58A6FF"/>
+</a>
 
 </div>
 
-
-<p align="center">
-  <strong>Full-Stack AI Engineer · AI Product Builder · Software Engineer</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=1A9AF7&center=true&vCenter=true&width=720&lines=Building+AI+Products;Engineering+Multi-Agent+LLM+Systems;Shipping+Full-Stack+Applications;Turning+Ideas+Into+Production+Software" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rhrits"><img src="https://komarev.com/ghpvc/?username=rhrits&label=Profile%20Views&color=1A9AF7&style=flat" /></a>
-  <a href="https://www.linkedin.com/in/hritik-raj-bngr1a/"><img src="https://img.shields.io/badge/LinkedIn-Hritik%20Raj-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/rhrits"><img src="https://img.shields.io/badge/X-@rhrits-000000?style=flat&logo=x&logoColor=white" /></a>
-</p>
-
----
+<br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif" width="430" alt="Developer animation"/>
+### <code>ABOUT</code>
 
-### Building software at the intersection of AI, the web, and curiosity.
+<sub>01 · identity</sub>
+
+<br><br>
+
+I build **AI-native products, full-stack platforms, developer tools<br>
+and data-driven systems** — from architecture to deployment.
+
+<br><br>
+
+<code>TypeScript</code> · <code>Next.js</code> · <code>React</code> · <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>LLMs</code>
 
 </div>
 
----
-
-## About Me
-
-I'm a **Full-Stack AI Engineer** focused on building production AI systems, full-stack products, developer tools, and interactive web experiences.
-
-I work across the entire product lifecycle — from architecture and AI systems to backend APIs, databases, security, frontend applications, and cloud deployment.
-
-**Core interests**
-
-`Agentic AI` · `RAG` · `LLM Applications` · `Real-Time Systems` · `PostgreSQL` · `Developer Tools` · `Interactive Experiences`
-
----
-
-# Featured Projects
-
-## 01 — 0GRAVITY
-
-### An interactive way to explore the universe.
-
-[Explore 0GRAVITY](https://www.0gravity.space/)
-
-**0GRAVITY** is an interactive space exploration platform designed to make astronomy and physics more immersive and accessible.
-
-### Experiences
-
-- Universe-scale exploration
-- Cosmic calendar
-- Sky tracking
-- Interactive physics experiments
-- Orbit simulator
-- Satellite and mission exploration
-- India / ISRO space archive
-- Science companion
-- Zero-gravity interaction
-
----
-
-## 02 — AI Open Studio
-
-### AI-powered learning, research and collaboration workspace
-
-[Live Project](https://aios.coderstash.dev)
-
-**Stack:** `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Mistral` `BlockNote` `Yjs` `WebRTC`
-
-### Highlights
-
-- Mistral-powered prompt generation engine
-- Converts free-text learning intent into **30 categorized prompts**
-- 10 prompt categories
-- Schema-validated learning roadmap generation
-- AI document agent
-- Structured BlockNote operations
-- Undo history
-- Confirmation-gated AI rewrites
-- Real-time collaborative research
-- Yjs synchronization
-- WebRTC video and screen sharing
-- Live transcription
-
----
-
-## 03 — AffsAI
-
-### Bilingual AI-powered current-affairs platform
-
-[Live Project](https://affsai.com)
-
-**Stack:** `Next.js 14` `TypeScript` `OpenAI-compatible LLMs` `Tavily` `Upstash` `Vercel Cron`
-
-### Highlights
-
-- English + Hindi current-affairs platform
-- Ingestion from **119 news, government and exam sources**
-- Custom RSS/Atom parser
-- HTML sanitization
-- Unicode-safe deduplication
-- Fault-tolerant batched fetching
-- Automated daily AI briefs
-- Validated quizzes
-- 8-theme Tavily-grounded weekly digest
-- Provider-agnostic LLM architecture
-- Three-tier storage
-- JSON-LD and SEO metadata
-- 11-agent event intelligence engine in development
-
----
-
-## 04 — Coders Cookies
-
-### Open-source coding and placement platform
-
-[Live Project](https://coderscookies.com)
-
-**Stack:** `Next.js 16` `React 19` `PostgreSQL` `Monaco` `Judge0` `Piston` `Docker`
-
-### Highlights
-
-- Browser-based Monaco IDE
-- Judge0 + self-hosted Piston execution
-- C++, Python and Java support
-- **504 DSA problems**
-- **150 editorials**
-- **630 checkable learning topics**
-- PostgreSQL RLS across **17 tables**
-- Public-profile projection RPCs
-- Secure email OTP controls
-- Disposable-email validation
-
----
-
-# Production Experience
-
-## GoDiverse
-
-**Full-Stack Developer & AI Engineer · London · Remote**
-
-Building **SupplierVerse.ai**, a B2B AI procurement platform.
-
-### Engineering Highlights
-
-- 85 FastAPI endpoints
-- 297 PostgreSQL migrations
-- Azure OpenAI + LangGraph Bid Writer
-- Supervisor-led AI agents
-- Schema-validated outputs
-- Deterministic guardrails
-- Claim-risk checks
-- Human approval workflows
-- Server-Sent Events streaming
-- Tender ingestion across 7 procurement portals
-- CPV filtering + embeddings + pgvector
-- Companies House integration
-- SSRF protection
-- Multi-tenant architecture
-- PostgreSQL Row-Level Security
-- Role-scoped buyer, supplier and administrative workspaces
-
----
-
-## Gitchi IT Solution
-
-**Full-Stack Developer & DevOps Engineer · Gurugram**
-
-- Next.js Web3 product
-- Browser wallet extension
-- BIP32/BIP44 HD-wallet flows
-- Secure transaction signing
-- Jenkins CI/CD
-- Docker containerization
-- Nginx
-- AWS
-- Azure
-- Linode
-
----
-
-# Tech Stack
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash" />
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-
-## Backend & Data
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,mongodb,mysql" />
-
-## AI / LLM
-
-`LangGraph` · `LangChain` · `Azure OpenAI` · `Mistral` · `Groq` · `Gemini`
-
-`RAG` · `Embeddings` · `pgvector` · `Prompt Engineering` · `Tool Calling` · `Structured Outputs` · `Human-in-the-loop`
-
-## Real-Time
-
-`WebSockets` · `Server-Sent Events` · `WebRTC` · `Yjs`
-
-## Security
-
-`PostgreSQL RLS` · `JWT` · `RBAC` · `OAuth 2.0` · `Authentication` · `Authorization`
-
-`Multi-Tenant Architecture` · `SECURITY DEFINER RPCs` · `Rate Limiting`
-
-## Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions,jenkins,nginx,vercel" />
-
----
-
-# Engineering Interests
-
-**AI Systems**
-
-Agentic AI · Multi-Agent Architectures · RAG · Tool Calling · LLM Application Architecture
-
-**Software Engineering**
-
-Full-Stack Systems · Backend Architecture · PostgreSQL · Real-Time Applications · Developer Tools
-
-**Infrastructure**
-
-Cloud · Containers · CI/CD · Security · Multi-Tenant Systems
-
-**Interactive Experiences**
-
-Data Visualization · Physics Simulations · Spatial Interfaces · Educational Technology
-
----
-
-# Certifications
-
-**Microsoft Azure Security Engineer Associate** — 2025
-
-**IBM Containers with Docker, Kubernetes & OpenShift** — 2024
-
-**AMCAT Certified Software Engineer**
-
----
+<br><br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="Coding animation"/>
+### <code>SELECTED PROJECTS</code>
 
-### Build. Experiment. Ship.
+<sub>02 · products I've built, shipped and experimented with</sub>
 
 </div>
 
----
+<br>
 
-# Connect
+<table>
+<tr>
 
-<p align="center">
+<td width="50%" valign="top">
 
-<a href="https://www.linkedin.com/in/hritik-raj-bngr1a/"><img src="https://img.shields.io/badge/LinkedIn-Hritik%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/rhrits"><img src="https://img.shields.io/badge/X-@rhrits-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/rhrits"><img src="https://img.shields.io/badge/GitHub-rhrits-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<h3>01 · <font color="#58A6FF">SupplierVerse.ai</font></h3>
 
-</p>
+<sub>B2B AI PROCUREMENT</sub>
 
----
+<br><br>
+
+Production procurement software combining tender intelligence, supplier discovery, AI-assisted bid writing, evidence grounding and human approval.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code><br> <code>pgvector</code> <code>LangGraph</code> <code>Azure AI</code></sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>02 · <font color="#A371F7">GoDiverse</font></h3>
+
+<sub>B2B MULTI-PERSONA PLATFORM</sub>
+
+<br><br>
+
+A multi-role B2B platform supporting buyers, suppliers and verifiers through identity, teams, permissions, onboarding and operational workflows.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code><br> <code>PostgreSQL</code> <code>RLS</code> <code>JWT</code> <code>RBAC</code></sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>03 · <font color="#3FB950">UplyFox</font></h3>
+
+<sub>AI JOB APPLICATION ASSISTANT</sub>
+
+<br><br>
+
+Human-in-the-loop job application tooling with AI-assisted answers, deterministic form filling, browser inspection and application tracking.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>Chrome MV3</code> <code>TypeScript</code><br> <code>Gemini</code> <code>Mistral</code></sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>04 · <font color="#D29922">AI Open Studio</font></h3>
+
+<sub>COLLABORATIVE AI WORKSPACE</sub>
+
+<br><br>
+
+AI learning workspace combining dynamic roadmaps, document editing, collaborative research, drawing, video and screen sharing.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>Supabase</code> <code>Yjs</code><br> <code>WebRTC</code> <code>BlockNote</code> <code>Mistral</code></sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>05 · <font color="#F778BA">AffairsAI</font></h3>
+
+<sub>AI CURRENT AFFAIRS</sub>
+
+<br><br>
+
+Bilingual current-affairs platform with live feeds, daily briefs, quizzes, weekly digests and an offline-first mobile experience.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>Mistral</code> <code>Tavily</code><br> <code>Supabase</code> <code>Expo</code></sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>06 · <font color="#FF7B72">Coders Cookies</font></h3>
+
+<sub>DEVELOPER LEARNING PLATFORM</sub>
+
+<br><br>
+
+Developer ecosystem for DSA, coding practice, learning roadmaps, interview preparation, resume resources and VS Code themes.
+
+<br><br>
+
+<sub><code>Next.js</code> <code>PostgreSQL</code> <code>Supabase</code><br> <code>Monaco</code> <code>Judge0</code> <code>Piston</code></sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<sub>@rhrits · Built in India</sub>
+<sub>
+<code>06 PRODUCTS</code> · <code>FULL-STACK</code> · <code>AI-NATIVE</code> · <code>SHIPPED</code>
+</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### <code>ADDITIONAL PROJECTS</code>
+
+<sub>03 · smaller products, automation systems and experiments</sub>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<b>LinkedIn Operator</b><br>
+<sub>Research · Draft · Audit · Publish</sub>
+</td>
+
+<td align="center" width="20%">
+<b>Career OS</b><br>
+<sub>Discover · Evaluate · Apply</sub>
+</td>
+
+<td align="center" width="20%">
+<b>Foxea</b><br>
+<sub>Product · Brand · Web</sub>
+</td>
+
+<td align="center" width="20%">
+<b>FicomAI</b><br>
+<sub>Compliance · Content</sub>
+</td>
+
+<td align="center" width="20%">
+<b>ChronoVibe</b><br>
+<sub>Clock · Calendar · Utility</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### <code>ENGINEERING STACK</code>
+
+<sub>04 · the tools I use to turn ideas into products</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,react,nextjs,tailwind,fastapi,postgres,supabase,mongodb,redis&theme=dark&perline=13" height="48" alt="Languages and frameworks"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,linux,git,github,vscode,figma,postman,npm,bash&theme=dark&perline=11" height="48" alt="Cloud and engineering tools"/>
+
+<br><br>
+
+<sub>
+
+<span style="color:#58A6FF"><b>AI</b></span>
+  LangGraph · RAG · LLM APIs · Structured Outputs · pgvector
+
+  ·  
+
+<span style="color:#A371F7"><b>SYSTEMS</b></span>
+  REST · SSE · WebRTC · RBAC · RLS · CI/CD
+
+</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### <code>EXPERIENCE</code>
+
+<sub>05 · professional engineering</sub>
+
+<br><br>
+
+<b>Full-Stack Developer & AI Engineer</b>
+
+<br>
+
+<sub>GoDiverse · London, UK · Remote</sub>
+
+<br><br>
+
+<sub>
+AI workflows · procurement intelligence · APIs · data pipelines ·
+full-stack product systems
+</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### <code>GITHUB ACTIVITY</code>
+
+<sub>06 · recent engineering activity</sub>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhrits&theme=github-compact&hide_border=true&area=true&custom_title=" width="92%" alt="GitHub contribution activity"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rhrits&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=A371F7&text_color=8B949E&rank_icon=github" height="135"/>
+
+<img src="https://streak-stats.demolab.com/?user=rhrits&theme=transparent&hide_border=true&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=8B949E" height="135"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### <code>NOW</code>
+
+<sub>07 · current mode</sub>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+
+<br><br>
+
+<code>BUILD</code>
+ →  <code>SHIP</code>
+ →  <code>LEARN</code>
+ →  <code>REPEAT</code>
+
+<br><br>
+
+<sub><i>“Stay curious. Build relentlessly.”</i></sub>
+
+<br><br>
+
+<a href="https://github.com/rhrits">GitHub</a>
+ ·  <a href="https://www.linkedin.com/in/hritikraj/">LinkedIn</a>
+ ·  <a href="https://x.com/rhrits">X</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rhrits&style=flat-square&color=58A6FF&label=VISITORS"/>
 
 </div>
