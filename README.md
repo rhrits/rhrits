@@ -2,10 +2,6 @@
 
 <img src="gitartwork.svg" width="330" alt="GitHub contribution artwork"/>
 
-
-
-
-
 ### <code>Full-Stack AI Engineer</code> · <code>AI Product Builder</code>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Hritik+Raj;%24+building+AI-native+products;%24+shipping+production+systems;%24+full-stack+%2B+AI+%2B+cloud;%24+turning+ideas+into+things+people+use" alt="Animated terminal typing"/>
@@ -75,38 +71,68 @@ and data-driven systems** — from architecture to deployment.
 
 <br>
 
-<table>
+<!-- ==================== SELECTED PROJECTS ==================== -->
+
+<table align="center" width="92%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>01 · <font color="#58A6FF">SupplierVerse.ai</font></h3>
+<h4>
+01 · <font color="#58A6FF">SupplierVerse.ai</font>
+</h4>
 
-<sub>B2B AI PROCUREMENT</sub>
-
-<br><br>
-
-Production procurement software combining tender intelligence, supplier discovery, AI-assisted bid writing, evidence grounding and human approval.
+<sub><b>B2B AI PROCUREMENT</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code><br> <code>pgvector</code> <code>LangGraph</code> <code>Azure AI</code></sub>
+<sub>
+Tender intelligence · supplier discovery<br>
+AI-assisted bid writing · evidence grounding<br>
+human approval
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>FastAPI</code>
+<code>PostgreSQL</code><br>
+<code>pgvector</code>
+<code>LangGraph</code>
+<code>Azure AI</code>
+</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>02 · <font color="#A371F7">GoDiverse</font></h3>
+<h4>
+02 · <font color="#A371F7">GoDiverse</font>
+</h4>
 
-<sub>B2B MULTI-PERSONA PLATFORM</sub>
-
-<br><br>
-
-A multi-role B2B platform supporting buyers, suppliers and verifiers through identity, teams, permissions, onboarding and operational workflows.
+<sub><b>B2B MULTI-PERSONA PLATFORM</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code><br> <code>PostgreSQL</code> <code>RLS</code> <code>JWT</code> <code>RBAC</code></sub>
+<sub>
+Buyers · suppliers · verifiers<br>
+Identity · teams · permissions<br>
+onboarding · operational workflows
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Supabase</code><br>
+<code>PostgreSQL</code>
+<code>RLS</code>
+<code>JWT</code>
+<code>RBAC</code>
+</sub>
 
 </td>
 
@@ -114,35 +140,60 @@ A multi-role B2B platform supporting buyers, suppliers and verifiers through ide
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>03 · <font color="#3FB950">UplyFox</font></h3>
+<h4>
+03 · <font color="#3FB950">UplyFox</font>
+</h4>
 
-<sub>AI JOB APPLICATION ASSISTANT</sub>
-
-<br><br>
-
-Human-in-the-loop job application tooling with AI-assisted answers, deterministic form filling, browser inspection and application tracking.
+<sub><b>AI JOB APPLICATION ASSISTANT</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>Chrome MV3</code> <code>TypeScript</code><br> <code>Gemini</code> <code>Mistral</code></sub>
+<sub>
+AI-assisted answers · deterministic form filling<br>
+browser inspection · human approval<br>
+application tracking
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>Chrome MV3</code>
+<code>TypeScript</code><br>
+<code>Gemini</code>
+<code>Mistral</code>
+</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>04 · <font color="#D29922">AI Open Studio</font></h3>
+<h4>
+04 · <font color="#D29922">AI Open Studio</font>
+</h4>
 
-<sub>COLLABORATIVE AI WORKSPACE</sub>
-
-<br><br>
-
-AI learning workspace combining dynamic roadmaps, document editing, collaborative research, drawing, video and screen sharing.
+<sub><b>COLLABORATIVE AI WORKSPACE</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>Supabase</code> <code>Yjs</code><br> <code>WebRTC</code> <code>BlockNote</code> <code>Mistral</code></sub>
+<sub>
+Dynamic roadmaps · document editing<br>
+collaborative research · drawing<br>
+video & screen sharing
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>Supabase</code>
+<code>Yjs</code><br>
+<code>WebRTC</code>
+<code>BlockNote</code>
+<code>Mistral</code>
+</sub>
 
 </td>
 
@@ -150,39 +201,65 @@ AI learning workspace combining dynamic roadmaps, document editing, collaborativ
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>05 · <font color="#F778BA">AffairsAI</font></h3>
+<h4>
+05 · <font color="#F778BA">AffairsAI</font>
+</h4>
 
-<sub>AI CURRENT AFFAIRS</sub>
-
-<br><br>
-
-Bilingual current-affairs platform with live feeds, daily briefs, quizzes, weekly digests and an offline-first mobile experience.
+<sub><b>AI CURRENT AFFAIRS</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>Mistral</code> <code>Tavily</code><br> <code>Supabase</code> <code>Expo</code></sub>
+<sub>
+Bilingual current affairs<br>
+daily briefs · quizzes · weekly digests<br>
+offline-first mobile experience
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>Mistral</code>
+<code>Tavily</code><br>
+<code>Supabase</code>
+<code>Expo</code>
+</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<h3>06 · <font color="#FF7B72">Coders Cookies</font></h3>
+<h4>
+06 · <font color="#FF7B72">Coders Cookies</font>
+</h4>
 
-<sub>DEVELOPER LEARNING PLATFORM</sub>
-
-<br><br>
-
-Developer ecosystem for DSA, coding practice, learning roadmaps, interview preparation, resume resources and VS Code themes.
+<sub><b>DEVELOPER LEARNING PLATFORM</b></sub>
 
 <br><br>
 
-<sub><code>Next.js</code> <code>PostgreSQL</code> <code>Supabase</code><br> <code>Monaco</code> <code>Judge0</code> <code>Piston</code></sub>
+<sub>
+DSA · coding practice · learning roadmaps<br>
+interview preparation · resume resources<br>
+VS Code themes
+</sub>
+
+<br><br>
+
+<sub>
+<code>Next.js</code>
+<code>PostgreSQL</code>
+<code>Supabase</code><br>
+<code>Monaco</code>
+<code>Judge0</code>
+<code>Piston</code>
+</sub>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -190,12 +267,20 @@ Developer ecosystem for DSA, coding practice, learning roadmaps, interview prepa
 <div align="center">
 
 <sub>
-<code>06 PRODUCTS</code> · <code>FULL-STACK</code> · <code>AI-NATIVE</code> · <code>SHIPPED</code>
+<code>06 PRODUCTS</code>
+&nbsp;·&nbsp;
+<code>FULL-STACK</code>
+&nbsp;·&nbsp;
+<code>AI-NATIVE</code>
+&nbsp;·&nbsp;
+<code>SHIPPED</code>
 </sub>
 
 </div>
 
 <br><br>
+
+<!-- ==================== ADDITIONAL PROJECTS ==================== -->
 
 <div align="center">
 
@@ -205,40 +290,69 @@ Developer ecosystem for DSA, coding practice, learning roadmaps, interview prepa
 
 <br><br>
 
-<table>
+<table align="center" width="92%">
+
 <tr>
 
 <td align="center" width="20%">
-<b>LinkedIn Operator</b><br>
+
+<b>LinkedIn Operator</b>
+
+<br>
+
 <sub>Research · Draft · Audit · Publish</sub>
+
 </td>
 
 <td align="center" width="20%">
-<b>Career OS</b><br>
+
+<b>Career OS</b>
+
+<br>
+
 <sub>Discover · Evaluate · Apply</sub>
+
 </td>
 
 <td align="center" width="20%">
-<b>Foxea</b><br>
+
+<b>Foxea</b>
+
+<br>
+
 <sub>Product · Brand · Web</sub>
+
 </td>
 
 <td align="center" width="20%">
-<b>FicomAI</b><br>
+
+<b>FicomAI</b>
+
+<br>
+
 <sub>Compliance · Content</sub>
+
 </td>
 
 <td align="center" width="20%">
-<b>ChronoVibe</b><br>
+
+<b>ChronoVibe</b>
+
+<br>
+
 <sub>Clock · Calendar · Utility</sub>
+
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 <br><br>
+
+<!-- ==================== ENGINEERING STACK ==================== -->
 
 <div align="center">
 
@@ -259,18 +373,22 @@ Developer ecosystem for DSA, coding practice, learning roadmaps, interview prepa
 <sub>
 
 <span style="color:#58A6FF"><b>AI</b></span>
-  LangGraph · RAG · LLM APIs · Structured Outputs · pgvector
+ 
+LangGraph · RAG · LLM APIs · Structured Outputs · pgvector
 
   ·  
 
 <span style="color:#A371F7"><b>SYSTEMS</b></span>
-  REST · SSE · WebRTC · RBAC · RLS · CI/CD
+ 
+REST · SSE · WebRTC · RBAC · RLS · CI/CD
 
 </sub>
 
 </div>
 
 <br><br>
+
+<!-- ==================== EXPERIENCE ==================== -->
 
 <div align="center">
 
@@ -297,6 +415,8 @@ full-stack product systems
 
 <br><br>
 
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
 <div align="center">
 
 ### <code>GITHUB ACTIVITY</code>
@@ -316,6 +436,8 @@ full-stack product systems
 </div>
 
 <br><br>
+
+<!-- ==================== NOW ==================== -->
 
 <div align="center">
 
